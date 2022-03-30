@@ -1452,3 +1452,117 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-03.08.20:895][930]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint5D4F8FC54CF131BEF3051990165458CB.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
 [2022.03.30-03.08.20:937][930]AssetCheck: New page: Asset Save: AdultAIBlueprint
 [2022.03.30-03.08.20:937][930]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.09.57:859][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.10.30:682][ 66]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacterEA94F7C649A046F7B143FC9A00AD423B.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.10.30:767][ 66]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.10.30:767][ 66]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.10.35:950][197]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::Jump' [The specified module could not be found.]
+[2022.03.30-03.10.36:190][200]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::Jump' [Element not found.]
+[2022.03.30-03.11.43:347][371]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:1).
+[2022.03.30-03.11.59:995][773]LogEditorTransaction: Undo Modify Component Scale
+[2022.03.30-03.12.28:307][461]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:308][461]LogPhysics: Warning: Scale for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:308][461]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:344][462]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:381][463]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:425][464]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:459][465]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:497][466]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:536][467]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:577][468]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.12.28:614][469]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ThirdPersonCharacter_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=12.090 Y=1.000 Z=0.000
+[2022.03.30-03.14.10:097][140]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacterAB7C190B41634A7935AEF4928E94E610.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.14.10:145][140]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.14.10:145][140]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.14.10:337][145]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.30-03.14.10:522][145]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2022.03.30-03.14.11:334][156]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacter5B3D676A44FC34C22D0FBB97B1B446DF.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.14.11:391][156]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.14.11:391][156]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.17.52:716][419]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-03.18.00:436][543]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.30-03.20.12:968][925]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.30-03.20.12:992][925]LogBlueprint: Error: [AssetLog] C:\Users\Jalis\Desktop\SneezeGameUnreal\SneezeGameThird\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.30-03.20.12:993][925]LogBlueprint: Error: [AssetLog] C:\Users\Jalis\Desktop\SneezeGameUnreal\SneezeGameThird\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.30-03.20.13:114][925]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2022.03.30-03.20.23:531][172]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacter3F62091747E217C368C048A7A1FA97E3.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.20.23:591][172]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.20.23:591][172]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.20.24:057][182]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.30-03.20.24:080][182]LogBlueprint: Error: [AssetLog] C:\Users\Jalis\Desktop\SneezeGameUnreal\SneezeGameThird\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.30-03.20.24:081][182]LogBlueprint: Error: [AssetLog] C:\Users\Jalis\Desktop\SneezeGameUnreal\SneezeGameThird\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.30-03.20.24:193][182]LogUObjectHash: Compacting FUObjectHashTables data took   8.99ms
+[2022.03.30-03.20.25:436][206]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacter310023DB48C6CA6AE370AFA615D053DA.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.20.25:482][206]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.20.25:482][206]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.21.14:449][938]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2022.03.30-03.21.14:521][938]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap_Auto1C2DACF7B48C2A782864BCCA5086200B8.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.03.30-03.21.14:533][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.159
+[2022.03.30-03.21.14:533][938]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.159
+[2022.03.30-03.22.23:789][713]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.30-03.22.23:858][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.03.30-03.22.25:458][783]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacter163C7E6A4142D20FF691EFB02D293400.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.22.25:481][783]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.22.25:482][783]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.23.53:317][497]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.30-03.23.53:388][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.03.30-03.23.54:783][560]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacter307C416F4465878175F9888315A7E6B9.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.23.54:808][560]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.23.54:808][560]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.23.57:282][681]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.03.30-03.23.57:306][681]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.03.30-03.23.57:309][681]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.23.57:309][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.23.58:379][733]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-03.23.58:388][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-03.23.58:388][733]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 29, 2022, 7:23:58 PM)
+[2022.03.30-03.23.58:389][733]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.30-03.23.58:406][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017031s)
+[2022.03.30-03.23.58:411][733]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.30-03.23.58:412][733]LogPlayLevel: PIE: World Init took: (0.004999s)
+[2022.03.30-03.23.58:412][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022891s)
+[2022.03.30-03.23.58:437][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.03.30-03.23.58:439][733]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.30-03.23.58:439][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-03.23.58:439][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-03.23.58:439][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-03.23.58:439][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-03.23.58:439][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-03.23.58:439][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-03.23.58:439][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-03.23.58:439][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-03.23.58:440][733]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-03.23.58:440][733]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-03.23.58:440][733]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-03.23.58:440][733]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-03.23.58:444][733]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-03.23.58:444][733]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-03.23.58:489][733]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.30-03.23.58:489][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-03.23.58:489][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-03.23.58:489][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-03.23.58:490][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-03.23.58:490][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-03.23.58:491][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-03.23.58:492][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-03.23.58:492][733]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-03.23.58:492][733]LogInit: FAudioDevice initialized.
+[2022.03.30-03.23.58:492][733]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2022.03.30-03.23.58:502][733]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.30-03.23.58:506][733]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.29-23.23.58
+[2022.03.30-03.23.58:507][733]LogWorld: Bringing up level for play took: 0.003658
+[2022.03.30-03.23.58:507][733]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.30-03.23.58:511][733]PIE: Server logged in
+[2022.03.30-03.23.58:512][733]PIE: Play in editor total start time 0.128 seconds.
+[2022.03.30-03.24.18:856][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-03.24.18:856][944]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.30-03.24.18:857][944]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.24.18:857][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.24.18:868][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-03.24.18:878][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.24.18:900][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-03.24.18:900][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.24.18:902][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.24.18:907][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-03.24.18:911][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.30-03.24.18:956][945]LogPlayLevel: Display: Destroying online subsystem :Context_15
