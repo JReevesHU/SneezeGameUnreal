@@ -1659,3 +1659,168 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-03.30.35:490][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.30-03.30.35:494][643]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
 [2022.03.30-03.30.35:546][644]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.30-03.31.41:986][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.32.41:065][275]BlueprintLog: New page: Compile AdultAIBlueprint
+[2022.03.30-03.32.41:150][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.03.30-03.32.41:600][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.32.41:642][288]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint7ED8DE254666513CAA605FB3F5F25FFA.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.32.41:667][288]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.32.41:667][288]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.32.43:963][397]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.32.43:978][397]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.32.43:980][397]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.32.43:981][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.32.50:564][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.36.59:748][ 39]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.03.30-03.36.59:779][ 39]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.03.30-03.36.59:782][ 39]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.36.59:782][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.37.03:051][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.38.28:311][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.30-03.38.28:343][465]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap_Auto2018AD35C4FAA39158B1994A823D7F41E.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.03.30-03.38.28:348][465]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.069
+[2022.03.30-03.38.28:348][465]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.03.30-03.38.28:352][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.03.30-03.38.28:376][465]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.03.30-03.38.28:376][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.03.30-03.38.28:427][465]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacter_Auto272C7550D4A2953DE097B6BA8AC24F22F.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2022.03.30-03.38.28:431][465]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AdultAIBlueprint] ([4] browsable assets)...
+[2022.03.30-03.38.28:458][465]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint]
+[2022.03.30-03.38.28:483][465]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint]
+[2022.03.30-03.38.28:483][465]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AdultAIBlueprint]
+[2022.03.30-03.38.28:528][465]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint_Auto25E21CC034BDC4DCFD3EA1DA5EB6AFDF1.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/Autosaves/Game/Blueprints/AdultAIBlueprint_Auto2.uasset'
+[2022.03.30-03.38.28:532][465]LogFileHelpers: Auto-saving content packages took 0.182
+[2022.03.30-03.39.41:658][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.39.41:728][595]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprintE614082F43DA72EE223A0CA4507CF818.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.39.41:752][595]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.39.41:752][595]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.39.42:606][637]BlueprintLog: New page: Compile AdultAIBlueprint
+[2022.03.30-03.39.42:673][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.03.30-03.39.43:272][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.39.43:315][657]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprintA23C27374528751D575DE284114BA00D.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.39.43:345][657]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.39.43:345][657]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.45.09:566][837]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.45.09:599][837]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.45.09:604][837]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.45.09:604][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.45.15:588][ 65]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.46.38:407][794]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.30-03.46.38:516][794]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.03.30-03.46.39:184][808]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonCharacterD86C1B2441329EC06F2897A7A5CE4579.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.30-03.46.39:220][808]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.30-03.46.39:220][808]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.30-03.46.41:015][872]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.03.30-03.46.41:049][872]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.03.30-03.46.41:054][872]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.46.41:054][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.46.43:602][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.03.30-03.46.45:012][955]LogSlate: Window 'Save Content' being destroyed
+[2022.03.30-03.46.45:107][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.03.30-03.46.45:142][955]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap029AD9B64B2838B2D8797DB1E37DA559.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.30-03.46.45:180][955]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.114
+[2022.03.30-03.46.45:217][955]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.03.30-03.46.45:217][955]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.30-03.46.52:619][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.03.30-03.47.00:889][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.03.30-03.47.00:945][559]LogSlate: Window 'SneezeGameThird - Unreal Editor' being destroyed
+[2022.03.30-03.47.01:648][560]Cmd: QUIT_EDITOR
+[2022.03.30-03.47.01:650][560]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.30-03.47.01:672][560]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.30-03.47.01:852][560]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.30-03.47.01:852][560]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.30-03.47.01:853][560]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.03.30-03.47.01:860][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.47.01:870][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.47.02:024][560]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.30-03.47.02:026][560]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.30-03.47.02:061][560]LogExit: Preparing to exit.
+[2022.03.30-03.47.02:673][560]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.03.30-03.47.03:862][560]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.03:866][560]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.03:870][560]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.03:874][560]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.03:880][560]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.03:885][560]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.03:889][560]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.04:446][560]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.30-03.47.04:666][560]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.47.04:672][560]LogExit: Editor shut down
+[2022.03.30-03.47.04:697][560]LogExit: Transaction tracking system shut down
+[2022.03.30-03.47.06:698][560]LogExit: Object subsystem successfully closed.
+[2022.03.30-03.47.06:755][560]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.30-03.47.06:755][560]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.03.30-03.47.06:755][560]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.03.30-03.47.06:757][560]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.03.30-03.47.06:757][560]LogShaderCompilers: Display: ================================================
+[2022.03.30-03.47.06:834][560]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.03.30-03.47.07:377][560]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2022.03.30-03.47.07:378][560]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2022.03.30-03.47.07:379][560]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2022.03.30-03.47.07:379][560]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2022.03.30-03.47.07:380][560]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2022.03.30-03.47.07:380][560]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2022.03.30-03.47.07:426][560]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2022.03.30-03.47.07:426][560]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2022.03.30-03.47.07:426][560]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2022.03.30-03.47.07:428][560]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2022.03.30-03.47.07:430][560]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2022.03.30-03.47.07:430][560]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2022.03.30-03.47.07:431][560]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2022.03.30-03.47.07:432][560]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2022.03.30-03.47.07:432][560]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2022.03.30-03.47.07:440][560]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2022.03.30-03.47.07:445][560]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2022.03.30-03.47.07:446][560]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2022.03.30-03.47.07:446][560]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2022.03.30-03.47.07:447][560]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2022.03.30-03.47.07:447][560]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2022.03.30-03.47.07:447][560]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2022.03.30-03.47.07:452][560]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2022.03.30-03.47.07:453][560]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2022.03.30-03.47.07:459][560]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2022.03.30-03.47.07:461][560]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2022.03.30-03.47.07:461][560]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2022.03.30-03.47.07:461][560]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2022.03.30-03.47.07:461][560]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2022.03.30-03.47.07:461][560]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2022.03.30-03.47.07:462][560]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2022.03.30-03.47.07:463][560]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (814)
+[2022.03.30-03.47.07:464][560]LogModuleManager: Shutting down and abandoning module SequenceRecorder (813)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2022.03.30-03.47.07:466][560]LogModuleManager: Shutting down and abandoning module PlanarCut (796)
+[2022.03.30-03.47.07:467][560]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (794)
+[2022.03.30-03.47.07:467][560]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (792)
+[2022.03.30-03.47.07:468][560]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (790)
+[2022.03.30-03.47.07:468][560]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2022.03.30-03.47.07:468][560]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2022.03.30-03.47.07:468][560]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2022.03.30-03.47.07:469][560]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2022.03.30-03.47.07:469][560]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2022.03.30-03.47.07:471][560]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2022.03.30-03.47.07:471][560]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2022.03.30-03.47.07:471][560]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2022.03.30-03.47.07:473][560]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2022.03.30-03.47.07:473][560]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2022.03.30-03.47.07:474][560]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2022.03.30-03.47.07:480][560]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2022.03.30-03.47.07:481][560]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2022.03.30-03.47.07:481][560]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2022.03.30-03.47.07:481][560]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2022.03.30-03.47.07:487][560]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2022.03.30-03.47.07:487][560]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2022.03.30-03.47.07:487][560]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2022.03.30-03.47.07:492][560]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2022.03.30-03.47.07:494][560]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2022.03.30-03.47.07:498][560]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2022.03.30-03.47.07:502][560]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2022.03.30-03.47.07:504][560]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2022.03.30-03.47.07:504][560]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2022.03.30-03.47.07:505][560]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2022.03.30-03.47.07:506][560]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
