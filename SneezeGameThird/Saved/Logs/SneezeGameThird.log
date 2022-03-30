@@ -1269,3 +1269,186 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-03.01.38:660][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2022.03.30-03.01.38:760][140]AssetCheck: New page: Asset Save: AdultAIBlueprint
 [2022.03.30-03.01.38:761][140]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.02.33:192][553]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.02.55:729][801]LogEditorTransaction: Undo Add Node
+[2022.03.30-03.04.52:340][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.04.52:443][ 39]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint0320611041688ECD4BD167BAFB9834AC.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.04.52:508][ 39]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.04.52:508][ 39]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.04.53:231][ 54]BlueprintLog: New page: Compile AdultAIBlueprint
+[2022.03.30-03.04.53:263][ 54]LogBlueprint: Error: [AssetLog] C:\Users\Jalis\Desktop\SneezeGameUnreal\SneezeGameThird\Content\Blueprints\AdultAIBlueprint.uasset: [Compiler] The current value (0, 0, 0) of the ' Origin ' pin is invalid: 'Origin' in action 'GetRandomReachablePointInRadius' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2022.03.30-03.04.53:781][ 54]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2022.03.30-03.04.54:733][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.04.54:838][ 66]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint213ED21547374B636E1C5AAD02C0C646.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.04.54:901][ 66]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.04.54:902][ 66]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.05.41:549][998]BlueprintLog: New page: Compile AdultAIBlueprint
+[2022.03.30-03.05.42:058][998]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2022.03.30-03.05.43:192][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.05.43:299][ 11]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprintFACCB2504B1422DA6CCDEC994BFEA531.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.05.43:383][ 11]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.05.43:383][ 11]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.05.55:849][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.05.55:948][267]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint575767204D6265525CFB85BEF5F5AC44.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.05.56:009][267]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.05.56:009][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.05.56:778][281]BlueprintLog: New page: Compile AdultAIBlueprint
+[2022.03.30-03.05.57:291][281]LogUObjectHash: Compacting FUObjectHashTables data took  10.66ms
+[2022.03.30-03.05.57:522][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.05.57:625][281]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint0C647D494D612DC72D8059B3EFF84ED0.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.05.57:726][281]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.05.57:726][281]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.05.58:916][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.05.59:010][296]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprintF821388541BEFE24FFCA93A085113015.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.05.59:068][296]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.05.59:068][296]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.05.59:878][313]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.05.59:907][313]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.05.59:912][313]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.05.59:913][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.06.07:237][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.03.30-03.06.21:229][732]BlueprintLog: New page: Compile AdultAIBlueprint
+[2022.03.30-03.06.21:684][732]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2022.03.30-03.06.22:979][746]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-03.06.23:000][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-03.06.23:000][746]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 29, 2022, 7:06:23 PM)
+[2022.03.30-03.06.23:000][746]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.30-03.06.23:034][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033546s)
+[2022.03.30-03.06.23:038][746]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.30-03.06.23:039][746]LogPlayLevel: PIE: World Init took: (0.004767s)
+[2022.03.30-03.06.23:039][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038745s)
+[2022.03.30-03.06.23:112][746]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2022.03.30-03.06.23:113][746]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.30-03.06.23:113][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-03.06.23:113][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-03.06.23:113][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-03.06.23:114][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-03.06.23:114][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-03.06.23:114][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-03.06.23:114][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-03.06.23:114][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-03.06.23:115][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-03.06.23:115][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-03.06.23:115][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-03.06.23:115][746]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-03.06.23:124][746]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-03.06.23:124][746]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-03.06.23:228][746]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.30-03.06.23:229][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-03.06.23:229][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-03.06.23:229][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-03.06.23:230][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-03.06.23:230][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-03.06.23:230][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-03.06.23:233][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-03.06.23:233][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-03.06.23:233][746]LogInit: FAudioDevice initialized.
+[2022.03.30-03.06.23:233][746]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.03.30-03.06.23:270][746]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.30-03.06.23:281][746]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.29-23.06.23
+[2022.03.30-03.06.23:290][746]LogWorld: Bringing up level for play took: 0.017217
+[2022.03.30-03.06.23:290][746]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.03.30-03.06.23:296][746]PIE: Server logged in
+[2022.03.30-03.06.23:298][746]PIE: Play in editor total start time 0.307 seconds.
+[2022.03.30-03.06.25:735][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-03.06.25:735][795]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.30-03.06.25:736][795]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.06.25:738][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.06.25:783][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-03.06.25:932][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.06.25:983][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-03.06.25:983][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.06.25:985][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.06.25:997][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-03.06.26:008][795]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2022.03.30-03.06.26:259][796]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.03.30-03.06.27:416][815]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.06.27:454][815]LogSlate: Window 'AdultAIBlueprint' being destroyed
+[2022.03.30-03.06.27:461][815]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.06.27:461][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.06.44:318][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.30-03.06.50:306][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.30-03.06.58:281][608]Cmd: TRANSACTION UNDO
+[2022.03.30-03.06.58:282][608]LogEditorTransaction: Undo Set Location
+[2022.03.30-03.07.00:507][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.30-03.07.01:268][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.30-03.07.01:743][705]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2022.03.30-03.07.15:079][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2022.03.30-03.07.39:076][785]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2022.03.30-03.07.39:165][785]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap5EE404B845E7527A9121E8A49DEAA215.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.30-03.07.39:735][785]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap_BuiltData9BF426B149847FAC5A6495A68B5968FF.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.30-03.07.39:795][785]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-03.07.39:795][785]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.30-03.07.39:795][785]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.30-03.07.42:303][853]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-03.07.42:330][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-03.07.42:331][853]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 29, 2022, 7:07:42 PM)
+[2022.03.30-03.07.42:331][853]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.30-03.07.42:377][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045295s)
+[2022.03.30-03.07.42:379][853]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.30-03.07.42:380][853]LogPlayLevel: PIE: World Init took: (0.003043s)
+[2022.03.30-03.07.42:380][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048744s)
+[2022.03.30-03.07.42:448][853]LogUObjectHash: Compacting FUObjectHashTables data took  13.12ms
+[2022.03.30-03.07.42:451][853]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.30-03.07.42:452][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-03.07.42:452][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-03.07.42:452][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-03.07.42:452][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-03.07.42:452][853]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-03.07.42:452][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-03.07.42:452][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-03.07.42:452][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-03.07.42:454][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-03.07.42:454][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-03.07.42:454][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-03.07.42:454][853]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-03.07.42:460][853]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-03.07.42:460][853]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-03.07.42:558][853]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.03.30-03.07.42:559][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-03.07.42:559][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-03.07.42:559][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-03.07.42:560][853]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-03.07.42:560][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-03.07.42:560][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-03.07.42:563][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-03.07.42:563][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-03.07.42:563][853]LogInit: FAudioDevice initialized.
+[2022.03.30-03.07.42:563][853]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.03.30-03.07.42:584][853]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.30-03.07.42:591][853]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.03.29-23.07.42
+[2022.03.30-03.07.42:592][853]LogWorld: Bringing up level for play took: 0.006316
+[2022.03.30-03.07.42:593][853]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.30-03.07.42:600][853]PIE: Server logged in
+[2022.03.30-03.07.42:602][853]PIE: Play in editor total start time 0.286 seconds.
+[2022.03.30-03.07.59:785][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-03.07.59:785][475]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.03.30-03.07.59:785][475]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-03.07.59:787][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.07.59:813][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-03.07.59:870][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-03.07.59:922][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-03.07.59:922][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.07.59:924][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-03.07.59:944][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2022.03.30-03.08.00:065][476]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.30-03.08.02:296][535]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2022.03.30-03.08.02:362][535]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMapB6ACB8634732DFDFB28230A47E1DDF28.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.30-03.08.02:775][535]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap_BuiltDataC168038945CE79FFC318C79C3EE32096.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.30-03.08.02:843][535]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-03.08.02:843][535]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.30-03.08.02:843][535]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.30-03.08.04:554][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.30-03.08.16:031][872]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.30-03.08.17:394][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.03.30-03.08.17:478][903]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap3E2144134A6D34431139F884DEC78108.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.03.30-03.08.17:909][903]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/ThirdPersonExampleMap_BuiltData66588D64436BCCE68BFEA0A953108952.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.03.30-03.08.17:974][903]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-03.08.17:974][903]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.03.30-03.08.17:975][903]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.30-03.08.19:252][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.03.30-03.08.20:559][930]LogSlate: Window 'Save Content' being destroyed
+[2022.03.30-03.08.20:770][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.03.30-03.08.20:895][930]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Saved/AdultAIBlueprint5D4F8FC54CF131BEF3051990165458CB.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGameUnreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.03.30-03.08.20:937][930]AssetCheck: New page: Asset Save: AdultAIBlueprint
+[2022.03.30-03.08.20:937][930]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
