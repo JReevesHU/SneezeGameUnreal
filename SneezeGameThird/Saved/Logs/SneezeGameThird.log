@@ -993,3 +993,304 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.20-04.46.21:166][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.04.20-04.46.21:199][ 98]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2022.04.20-04.46.21:199][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.46.56:872][564]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-04.47.30:717][802]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-04.47.30:905][802]LogUObjectHash: Compacting FUObjectHashTables data took  15.31ms
+[2022.04.20-04.47.31:433][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-04.47.31:476][817]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget176335D44647D54310DFA7A5433DEE87.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-04.47.31:526][817]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-04.47.31:526][817]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-04.49.01:140][993]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.04.20-04.49.01:174][993]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.04.20-04.49.07:653][124]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.04.20-04.49.07:670][124]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.04.20-04.49.15:569][494]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CreditsWidget
+[2022.04.20-04.49.15:624][494]LogMetaData: Removing '/Game/MainMenu/CreditsWidget.SKEL_CreditsWidget_C' ref from Metadata '/Game/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2022.04.20-04.49.15:624][494]LogMetaData: Removing '/Game/MainMenu/CreditsWidget.CreditsWidget_C' ref from Metadata '/Game/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2022.04.20-04.49.15:624][494]LogMetaData: Removing '/Game/MainMenu/CreditsWidget.CreditsWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2022.04.20-04.49.15:624][494]LogMetaData: Removing '/Game/MainMenu/CreditsWidget.CreditsWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2022.04.20-04.49.15:624][494]LogMetaData: Removing '/Game/MainMenu/CreditsWidget.CreditsWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2022.04.20-04.49.15:676][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/CreditsWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset" SILENT=true
+[2022.04.20-04.49.15:694][494]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidget782371A542C59FFB866B089A38E479FA.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset'
+[2022.04.20-04.49.15:935][494]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2022.04.20-04.49.16:015][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.04.20-04.49.16:065][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.04.20-04.49.16:139][494]AssetCheck: New page: Asset Save: CreditsWidget
+[2022.04.20-04.49.16:139][494]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-04.50.48:451][370]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2022.04.20-04.50.49:420][370]LogSlate: Window 'Save Content' being destroyed
+[2022.04.20-04.50.49:481][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-04.50.49:527][370]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget069F7B5242210B3ADFA7A8B048876B92.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-04.50.49:563][370]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-04.50.49:563][370]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-04.50.50:314][403]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-04.54.05:848][445]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-04.54.51:461][ 23]BlueprintLog: New page: Compile CreditsWidget
+[2022.04.20-04.54.51:550][ 23]LogUObjectHash: Compacting FUObjectHashTables data took  12.47ms
+[2022.04.20-04.54.52:198][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/CreditsWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset" SILENT=true
+[2022.04.20-04.54.52:217][ 45]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidgetFCB065934D8C71991AE440A5C1219590.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset'
+[2022.04.20-04.54.52:283][ 45]AssetCheck: New page: Asset Save: CreditsWidget
+[2022.04.20-04.54.52:284][ 45]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-04.54.53:592][102]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-04.54.53:602][102]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-04.54.53:611][102]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.54.53:611][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.54.53:629][102]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.54.53:629][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.54.53:737][102]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.54.53:737][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.54.53:754][102]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.54.53:755][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.54.58:091][315]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-04.55.04:077][475]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-04.55.04:116][475]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-04.55.04:126][475]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.55.04:126][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.55.04:147][475]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.55.04:148][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.55.05:502][540]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-04.55.13:245][846]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-04.55.13:275][846]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-04.55.13:282][846]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.55.13:283][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.55.13:301][846]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.55.13:301][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.55.14:605][905]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-04.55.36:132][580]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-04.55.36:165][580]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-04.55.36:174][580]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.55.36:174][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.55.36:196][580]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-04.55.36:196][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-04.55.37:271][624]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-04.55.49:073][138]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-05.01.52:043][641]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.20-05.02.07:835][161]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-05.02.07:850][161]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-05.02.07:854][161]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.02.07:854][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.02.07:865][161]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.02.07:865][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.02.35:256][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.20-05.02.35:260][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Levels/Main_Menu_Level' took 0.069
+[2022.04.20-05.02.35:262][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/MainMenuWidget] ([4] browsable assets)...
+[2022.04.20-05.02.35:262][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/MainMenuWidget]
+[2022.04.20-05.02.35:305][395]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget_Auto253E085294DD511FC2563AFB82A000C23.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Autosaves/Game/MainMenu/MainMenuWidget_Auto2.uasset'
+[2022.04.20-05.02.35:308][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/CreditsWidget] ([2] browsable assets)...
+[2022.04.20-05.02.35:308][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/CreditsWidget]
+[2022.04.20-05.02.35:320][395]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidget_Auto2A8767DB04BB38A221BC404A27479D90E.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Autosaves/Game/MainMenu/CreditsWidget_Auto2.uasset'
+[2022.04.20-05.02.35:321][395]LogFileHelpers: Auto-saving content packages took 0.061
+[2022.04.20-05.04.18:140][722]BlueprintLog: New page: Compile CreditsWidget
+[2022.04.20-05.04.18:178][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.04.20-05.04.18:714][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/CreditsWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset" SILENT=true
+[2022.04.20-05.04.18:732][739]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidget1F98BD9D45BE288359E5A9AF84744783.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset'
+[2022.04.20-05.04.18:758][739]AssetCheck: New page: Asset Save: CreditsWidget
+[2022.04.20-05.04.18:759][739]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-05.08.51:232][403]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-05.13.06:455][486]LogEditorTransaction: Undo Remove Widget
+[2022.04.20-05.13.56:157][977]BlueprintLog: New page: Compile CreditsWidget
+[2022.04.20-05.13.56:211][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.04.20-05.13.56:728][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/CreditsWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset" SILENT=true
+[2022.04.20-05.13.56:759][987]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidget78AFD8184882AC2943E5AB9889779941.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset'
+[2022.04.20-05.13.56:777][987]AssetCheck: New page: Asset Save: CreditsWidget
+[2022.04.20-05.13.56:777][987]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-05.15.28:482][351]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2022.04.20-05.15.28:810][351]LogSlate: Took 0.325277 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.04.20-05.16.09:434][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.04.20-05.16.09:439][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Levels/Main_Menu_Level' took 0.044
+[2022.04.20-05.16.09:440][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainMenu/CreditsWidget] ([4] browsable assets)...
+[2022.04.20-05.16.09:440][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/CreditsWidget]
+[2022.04.20-05.16.09:477][677]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidget_Auto316C48CCB4AE1C89DA3C71CA05A1B9C50.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Autosaves/Game/MainMenu/CreditsWidget_Auto3.uasset'
+[2022.04.20-05.16.09:481][677]LogFileHelpers: Auto-saving content packages took 0.042
+[2022.04.20-05.16.23:356][505]BlueprintLog: New page: Compile CreditsWidget
+[2022.04.20-05.16.23:400][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.04.20-05.16.23:970][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/CreditsWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset" SILENT=true
+[2022.04.20-05.16.24:021][535]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidget3CE9B51B426CE26CFDCAD69307F25460.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset'
+[2022.04.20-05.16.24:042][535]AssetCheck: New page: Asset Save: CreditsWidget
+[2022.04.20-05.16.24:042][535]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-05.16.24:901][583]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-05.16.24:910][583]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-05.16.24:916][583]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.16.24:916][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.16.24:923][583]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.16.24:923][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.16.26:186][649]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-05.16.59:288][296]LogSlate: Took 0.019857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.20-05.18.35:766][157]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.20-05.19.11:389][469]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-05.19.11:444][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.04.20-05.19.12:073][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-05.19.12:171][503]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget0168F8994DB1350AB63E778577B837EC.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-05.19.12:188][503]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-05.19.12:188][503]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-05.19.30:627][841]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-05.19.30:650][841]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-05.19.30:658][841]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.19.30:659][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.19.30:671][841]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.19.30:671][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.19.32:044][905]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-05.20.28:226][582]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.20-05.20.28:273][582]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.20-05.20.56:932][ 13]BlueprintLog: New page: Compile CreditsWidget
+[2022.04.20-05.20.56:980][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.04.20-05.20.57:518][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/CreditsWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset" SILENT=true
+[2022.04.20-05.20.57:547][ 38]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidget599F16C7404DFBE5E60F6E88ECE5D644.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset'
+[2022.04.20-05.20.57:569][ 38]AssetCheck: New page: Asset Save: CreditsWidget
+[2022.04.20-05.20.57:569][ 38]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-05.21.04:932][472]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-05.21.04:937][472]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-05.21.04:941][472]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.21.04:941][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.21.04:949][472]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.21.04:949][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.21.06:885][585]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-05.21.07:036][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-05.21.07:045][585]PIE: New page: PIE session: Main_Menu_Level (Apr 19, 2022, 9:21:07 PM)
+[2022.04.20-05.21.07:213][585]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.20-05.21.07:272][585]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.20-05.21.07:286][585]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-05.21.07:291][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004415s)
+[2022.04.20-05.21.07:301][585]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.04.20-05.21.07:326][585]LogPlayLevel: PIE: World Init took: (0.032320s)
+[2022.04.20-05.21.07:329][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level to /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.040646s)
+[2022.04.20-05.21.07:360][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.04.20-05.21.07:398][585]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.20-05.21.07:417][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-05.21.07:417][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-05.21.07:418][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-05.21.07:418][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-05.21.07:418][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-05.21.07:418][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-05.21.07:418][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-05.21.07:420][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-05.21.07:460][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-05.21.07:460][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-05.21.07:460][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-05.21.07:460][585]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-05.21.07:558][585]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-05.21.07:558][585]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-05.21.07:575][585]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-05.21.07:604][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-05.21.07:604][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-05.21.07:610][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-05.21.07:615][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-05.21.07:617][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-05.21.07:619][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-05.21.07:626][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-05.21.07:626][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-05.21.07:626][585]LogInit: FAudioDevice initialized.
+[2022.04.20-05.21.07:636][585]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Menu_Level'.
+[2022.04.20-05.21.07:948][585]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-05.21.07:959][585]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2022.04.20-01.21.07
+[2022.04.20-05.21.07:978][585]LogWorld: Bringing up level for play took: 0.016375
+[2022.04.20-05.21.07:998][585]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.20-05.21.08:266][585]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2022.04.20-05.21.08:444][585]PIE: Server logged in
+[2022.04.20-05.21.08:451][585]PIE: Play in editor total start time 1.494 seconds.
+[2022.04.20-05.21.24:332][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-05.21.24:348][486]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-05.21.24:358][486]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.21.24:361][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.21.24:380][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-05.21.24:394][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.21.24:431][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-05.21.24:447][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-05.21.24:450][486]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-05.21.24:462][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-05.21.24:570][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2022.04.20-05.21.24:603][487]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.20-05.21.45:550][813]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-05.22.10:045][115]BlueprintLog: New page: Compile CreditsWidget
+[2022.04.20-05.22.10:137][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.04.20-05.22.10:582][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/CreditsWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset" SILENT=true
+[2022.04.20-05.22.10:650][127]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/CreditsWidgetAE86E80B4748044017AC0FA9213D35F6.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/CreditsWidget.uasset'
+[2022.04.20-05.22.10:669][127]AssetCheck: New page: Asset Save: CreditsWidget
+[2022.04.20-05.22.10:669][127]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/CreditsWidget.CreditsWidget
+[2022.04.20-05.22.11:504][173]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-05.22.11:515][173]LogSlate: Window 'CreditsWidget' being destroyed
+[2022.04.20-05.22.11:519][173]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.22.11:520][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.22.11:530][173]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.22.11:533][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.22.12:610][234]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-05.22.12:618][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-05.22.12:618][234]PIE: New page: PIE session: Main_Menu_Level (Apr 19, 2022, 9:22:12 PM)
+[2022.04.20-05.22.12:619][234]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-05.22.12:620][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2022.04.20-05.22.12:621][234]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.04.20-05.22.12:621][234]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2022.04.20-05.22.12:622][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level to /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.002901s)
+[2022.04.20-05.22.12:651][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.04.20-05.22.12:663][234]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.20-05.22.12:663][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-05.22.12:663][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-05.22.12:663][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-05.22.12:663][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-05.22.12:663][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-05.22.12:663][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-05.22.12:663][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-05.22.12:663][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-05.22.12:664][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-05.22.12:664][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-05.22.12:664][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-05.22.12:664][234]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-05.22.12:667][234]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-05.22.12:667][234]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-05.22.12:681][234]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-05.22.12:681][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-05.22.12:681][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-05.22.12:681][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-05.22.12:682][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-05.22.12:682][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-05.22.12:682][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-05.22.12:683][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-05.22.12:683][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-05.22.12:683][234]LogInit: FAudioDevice initialized.
+[2022.04.20-05.22.12:684][234]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Menu_Level'.
+[2022.04.20-05.22.12:699][234]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-05.22.12:700][234]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 60) at 2022.04.20-01.22.12
+[2022.04.20-05.22.12:700][234]LogWorld: Bringing up level for play took: 0.000394
+[2022.04.20-05.22.12:703][234]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.04.20-05.22.12:712][234]PIE: Server logged in
+[2022.04.20-05.22.12:713][234]PIE: Play in editor total start time 0.098 seconds.
+[2022.04.20-05.22.24:162][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-05.22.24:162][917]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-05.22.24:162][917]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.22.24:163][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.22.24:175][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-05.22.24:181][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.22.24:202][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-05.22.24:202][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-05.22.24:204][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-05.22.24:206][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-05.22.24:211][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.04.20-05.22.24:244][919]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.04.20-05.22.38:145][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.04.20-05.22.44:593][344]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2022.04.20-05.22.44:615][344]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2022.04.20-05.22.44:619][344]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-05.22.44:619][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-05.22.50:009][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.04.20-05.22.58:893][144]LogContentBrowser: Attempting asset rename: ThirdPersonGameMode -> MainMenuGameMode
+[2022.04.20-05.22.58:930][144]LogMetaData: Removing '/Game/MainMenu/MainMenuGameMode.SKEL_MainMenuGameMode_C' ref from Metadata '/Game/MainMenu/ThirdPersonGameMode.PackageMetaData'
+[2022.04.20-05.22.58:930][144]LogMetaData: Removing '/Game/MainMenu/MainMenuGameMode.MainMenuGameMode_C' ref from Metadata '/Game/MainMenu/ThirdPersonGameMode.PackageMetaData'
+[2022.04.20-05.22.58:930][144]LogMetaData: Removing '/Game/MainMenu/MainMenuGameMode.SKEL_MainMenuGameMode_C:UserConstructionScript' ref from Metadata '/Game/MainMenu/ThirdPersonGameMode.PackageMetaData'
+[2022.04.20-05.22.58:965][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuGameMode" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuGameMode.uasset" SILENT=true
+[2022.04.20-05.22.58:981][144]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuGameModeD108695F496740A541819F8F60BD0FD2.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuGameMode.uasset'
+[2022.04.20-05.22.59:095][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.04.20-05.22.59:143][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.04.20-05.22.59:179][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.20-05.22.59:246][144]AssetCheck: New page: Asset Save: MainMenuGameMode
+[2022.04.20-05.22.59:246][144]LogContentValidation: Display: Validating Blueprint /Game/MainMenu/MainMenuGameMode.MainMenuGameMode
+[2022.04.20-05.23.13:130][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.04.20-05.23.35:405][259]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.20-05.23.35:430][259]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.20-05.23.39:875][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuGameMode" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuGameMode.uasset" SILENT=true
+[2022.04.20-05.23.39:899][511]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuGameMode54B9034543EF64911FE39687B2891DB8.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuGameMode.uasset'
+[2022.04.20-05.23.39:921][511]AssetCheck: New page: Asset Save: MainMenuGameMode
+[2022.04.20-05.23.39:921][511]LogContentValidation: Display: Validating Blueprint /Game/MainMenu/MainMenuGameMode.MainMenuGameMode
+[2022.04.20-05.23.43:156][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.20-05.23.43:199][698]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Main_Menu_Level629CAAA84B52BDCA99E9AD9B0C96C1F0.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Maps/Levels/Main_Menu_Level.umap'
+[2022.04.20-05.23.43:245][698]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.04.20-05.23.43:245][698]LogContentValidation: Display: Validating World /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level
