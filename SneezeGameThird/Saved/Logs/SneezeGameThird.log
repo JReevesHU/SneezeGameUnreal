@@ -1024,3 +1024,317 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.20-03.24.12:545][252]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
 [2022.04.20-03.24.14:100][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2022.04.20-03.24.19:929][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.20-03.25.47:525][979]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.25.47:848][979]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2022.04.20-03.25.49:884][979]LogSlate: Took 0.006033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.20-03.26.45:520][882]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-03.26.45:604][882]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.04.20-03.26.46:119][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.26.46:128][899]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget723F8736428B661C14C303BC98371E0B.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.26.46:152][899]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-03.26.46:152][899]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.30.43:799][759]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-03.30.43:860][759]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.04.20-03.30.44:321][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.30.44:332][780]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget07B425564C57744E88FD26BFAEC96655.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.30.44:354][780]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-03.30.44:354][780]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.30.45:523][845]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.30.45:533][845]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.30.45:594][845]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.30.45:594][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.30.45:612][845]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.30.45:612][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.31.00:538][183]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Jalis\Downloads\Sneezegamemenu.jpg)
+[2022.04.20-03.31.00:582][183]LogTexture: Display: Building textures: Sneezegamemenu (BGRA8, 823X440)
+[2022.04.20-03.31.06:836][555]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.32.15:468][342]LogUObjectHash: Compacting FUObjectHashTables data took  12.88ms
+[2022.04.20-03.32.15:479][342]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Levels/Main_Menu_Level' took 0.229
+[2022.04.20-03.32.15:485][342]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MainMenu/Sneezegamemenu] ([1] browsable assets)...
+[2022.04.20-03.32.15:498][342]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/MainMenu/Sneezegamemenu.Sneezegamemenu]
+[2022.04.20-03.32.15:498][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainMenu/Sneezegamemenu]
+[2022.04.20-03.32.15:529][342]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Sneezegamemenu_Auto1A39A0C5B4F9961A56599C58ECA95820C.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Autosaves/Game/MainMenu/Sneezegamemenu_Auto1.uasset'
+[2022.04.20-03.32.15:536][342]LogFileHelpers: Auto-saving content packages took 0.055
+[2022.04.20-03.32.26:956][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.04.20-03.32.28:446][696]LogSlate: Window 'Save Content' being destroyed
+[2022.04.20-03.32.28:485][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/Sneezegamemenu" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/Sneezegamemenu.uasset" SILENT=true
+[2022.04.20-03.32.28:516][696]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Sneezegamemenu2E47AE3D4494AE316538C1877456BA15.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/Sneezegamemenu.uasset'
+[2022.04.20-03.32.28:543][696]AssetCheck: New page: Asset Save: Sneezegamemenu
+[2022.04.20-03.32.28:544][696]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/Sneezegamemenu.Sneezegamemenu
+[2022.04.20-03.32.55:930][836]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.32.55:944][836]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.32.55:946][836]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.32.55:946][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.32.55:954][836]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.32.55:954][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.33.03:595][647]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.33.33:392][942]LogEditorViewport: Clicking Background
+[2022.04.20-03.34.18:100][983]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-03.34.18:153][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.20-03.34.18:186][983]LogSlate: Took 0.008922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.20-03.34.18:624][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.34.18:636][ 13]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget498A259B4BFEF15C673BB996D6976130.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.34.18:655][ 13]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-03.34.18:655][ 13]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.34.48:886][738]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.04.20-03.34.48:908][738]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.04.20-03.35.42:085][680]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.35.42:100][680]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.35.42:103][680]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.35.42:103][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.35.42:116][680]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.35.42:116][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.35.47:684][222]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/MainMenu/Sneezegamemenu.Sneezegamemenu
+[2022.04.20-03.35.47:782][222]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.04.20-03.35.50:983][409]LogSlate: Window 'Sneezegamemenu' being destroyed
+[2022.04.20-03.35.51:002][409]LogSlate: Window 'Sneezegamemenu' being destroyed
+[2022.04.20-03.35.52:384][542]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.37.24:052][319]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.37.24:064][319]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.37.24:066][319]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.37.24:066][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.37.24:081][319]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.37.24:081][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.37.25:846][484]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.40.15:508][224]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-03.40.15:650][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2022.04.20-03.40.16:153][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.40.16:164][254]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget2778FAE14A6811C3E3CB4AB373D5DF7A.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.40.16:184][254]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-03.40.16:184][254]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.40.17:218][323]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.40.17:231][323]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.40.17:283][323]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.40.17:283][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.40.17:291][323]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.40.17:291][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.40.22:465][787]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level
+[2022.04.20-03.40.52:775][996]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.20-03.41.13:662][958]LogSlate: Took 0.010218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.20-03.41.27:163][361]BlueprintLog: New page: Compile Main_Menu_Level
+[2022.04.20-03.41.27:251][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.04.20-03.41.27:777][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.04.20-03.41.27:817][390]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Main_Menu_LevelAFA9335D473FC6E1F0A5A19426689954.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Maps/Levels/Main_Menu_Level.umap'
+[2022.04.20-03.41.27:826][390]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.079
+[2022.04.20-03.41.27:847][390]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.04.20-03.41.27:847][390]LogContentValidation: Display: Validating World /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level
+[2022.04.20-03.41.28:822][449]LogSlate: Window 'Main_Menu_Level' being destroyed
+[2022.04.20-03.41.28:841][449]LogSlate: Window 'Main_Menu_Level' being destroyed
+[2022.04.20-03.41.28:847][449]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.41.28:847][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.41.29:562][492]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-03.41.29:580][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-03.41.29:587][492]PIE: New page: PIE session: Main_Menu_Level (Apr 19, 2022, 7:41:29 PM)
+[2022.04.20-03.41.29:627][492]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-03.41.29:630][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002267s)
+[2022.04.20-03.41.29:632][492]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.04.20-03.41.29:635][492]LogPlayLevel: PIE: World Init took: (0.004824s)
+[2022.04.20-03.41.29:635][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level to /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.007927s)
+[2022.04.20-03.41.29:667][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.04.20-03.41.29:672][492]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.20-03.41.29:676][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-03.41.29:677][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-03.41.29:677][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-03.41.29:677][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-03.41.29:677][492]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-03.41.29:677][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-03.41.29:677][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-03.41.29:677][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-03.41.29:682][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-03.41.29:682][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-03.41.29:682][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-03.41.29:682][492]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-03.41.29:690][492]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-03.41.29:690][492]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-03.41.29:707][492]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-03.41.29:710][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-03.41.29:710][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-03.41.29:711][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-03.41.29:712][492]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-03.41.29:712][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-03.41.29:713][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-03.41.29:716][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-03.41.29:716][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-03.41.29:716][492]LogInit: FAudioDevice initialized.
+[2022.04.20-03.41.29:716][492]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Menu_Level'.
+[2022.04.20-03.41.29:755][492]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-03.41.29:756][492]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.04.19-23.41.29
+[2022.04.20-03.41.29:758][492]LogWorld: Bringing up level for play took: 0.002207
+[2022.04.20-03.41.29:763][492]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.04.20-03.41.29:822][492]PIE: Server logged in
+[2022.04.20-03.41.29:823][492]PIE: Play in editor total start time 0.251 seconds.
+[2022.04.20-03.41.35:312][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-03.41.35:312][101]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-03.41.35:312][101]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.41.35:312][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.41.35:327][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-03.41.35:331][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.41.35:351][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-03.41.35:353][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-03.41.35:361][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-03.41.35:372][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.20-03.41.35:393][102]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.04.20-03.41.38:180][366]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.41.56:533][445]LogEditorTransaction: Undo Set Vector Property
+[2022.04.20-03.42.10:962][287]LogEditorTransaction: Undo Edit Margin
+[2022.04.20-03.42.50:413][688]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-03.42.50:453][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2022.04.20-03.42.50:893][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.42.50:902][707]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget4FE97D794F3BBBB0A613E5A84E70B15D.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.42.50:926][707]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-03.42.50:926][707]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.42.51:773][758]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.42.51:785][758]LogSlate: Window 'MainMenuWidget' being destroyed
+[2022.04.20-03.42.51:791][758]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.42.51:791][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.42.51:797][758]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.42.51:797][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.42.52:788][837]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-03.42.52:797][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-03.42.52:797][837]PIE: New page: PIE session: Main_Menu_Level (Apr 19, 2022, 7:42:52 PM)
+[2022.04.20-03.42.52:823][837]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-03.42.52:824][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001433s)
+[2022.04.20-03.42.52:826][837]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.04.20-03.42.52:826][837]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2022.04.20-03.42.52:826][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level to /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.003211s)
+[2022.04.20-03.42.52:852][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.04.20-03.42.52:854][837]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-03.42.52:854][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-03.42.52:854][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-03.42.52:854][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-03.42.52:854][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-03.42.52:854][837]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-03.42.52:857][837]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-03.42.52:857][837]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-03.42.52:872][837]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-03.42.52:872][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-03.42.52:872][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-03.42.52:872][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-03.42.52:873][837]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-03.42.52:873][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-03.42.52:873][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-03.42.52:875][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-03.42.52:875][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-03.42.52:875][837]LogInit: FAudioDevice initialized.
+[2022.04.20-03.42.52:875][837]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Menu_Level'.
+[2022.04.20-03.42.52:888][837]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-03.42.52:889][837]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.04.19-23.42.52
+[2022.04.20-03.42.52:889][837]LogWorld: Bringing up level for play took: 0.000335
+[2022.04.20-03.42.52:889][837]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.20-03.42.52:893][837]PIE: Server logged in
+[2022.04.20-03.42.52:894][837]PIE: Play in editor total start time 0.101 seconds.
+[2022.04.20-03.43.05:338][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-03.43.05:338][213]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-03.43.05:339][213]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.43.05:339][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.43.05:351][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-03.43.05:356][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.43.05:378][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-03.43.05:378][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-03.43.05:380][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-03.43.05:383][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-03.43.05:387][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.04.20-03.43.05:409][214]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.20-03.43.52:959][954]LogContentBrowser: Attempting asset rename: Sneezegamemenu -> MenuScreen
+[2022.04.20-03.43.53:024][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MenuScreen" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MenuScreen.uasset" SILENT=true
+[2022.04.20-03.43.53:035][954]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MenuScreenB4A21B5741B247573163A29E85F5F20B.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MenuScreen.uasset'
+[2022.04.20-03.43.53:144][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.04.20-03.43.53:177][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.04.20-03.43.53:199][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.04.20-03.43.53:223][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.43.53:232][954]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidgetE1FF511745FEB9A9011B4CBE7DF31348.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.43.53:287][954]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.20-03.43.53:287][954]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.43.53:287][954]LogContentValidation: Display: Validating Texture2D /Game/MainMenu/MenuScreen.MenuScreen
+[2022.04.20-03.44.20:979][685]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-03.44.20:988][685]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.20-03.44.20:989][685]LogPlayLevel: [PlayLevel] Compiling MainMenuWidget before play...
+[2022.04.20-03.44.21:028][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.04.20-03.44.21:031][685]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2022.04.20-03.44.21:032][685]PIE: New page: PIE session: Main_Menu_Level (Apr 19, 2022, 7:44:21 PM)
+[2022.04.20-03.44.21:032][685]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-03.44.21:033][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001101s)
+[2022.04.20-03.44.21:034][685]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.04.20-03.44.21:035][685]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2022.04.20-03.44.21:035][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Main_Menu_Level.Main_Menu_Level to /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.002540s)
+[2022.04.20-03.44.21:054][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.04.20-03.44.21:055][685]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-03.44.21:055][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-03.44.21:055][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-03.44.21:055][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-03.44.21:055][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-03.44.21:055][685]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-03.44.21:058][685]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-03.44.21:058][685]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-03.44.21:071][685]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-03.44.21:072][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-03.44.21:072][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-03.44.21:072][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-03.44.21:072][685]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-03.44.21:073][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-03.44.21:073][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-03.44.21:075][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-03.44.21:075][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-03.44.21:075][685]LogInit: FAudioDevice initialized.
+[2022.04.20-03.44.21:075][685]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Menu_Level'.
+[2022.04.20-03.44.21:091][685]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-03.44.21:091][685]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.04.19-23.44.21
+[2022.04.20-03.44.21:092][685]LogWorld: Bringing up level for play took: 0.000336
+[2022.04.20-03.44.21:092][685]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.04.20-03.44.21:096][685]PIE: Server logged in
+[2022.04.20-03.44.21:097][685]PIE: Play in editor total start time 0.112 seconds.
+[2022.04.20-03.44.24:798][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-03.44.24:798][ 27]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_Main_Menu_Level
+[2022.04.20-03.44.24:798][ 27]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-03.44.24:799][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.44.24:811][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-03.44.24:817][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-03.44.24:838][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-03.44.24:838][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-03.44.24:844][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-03.44.24:849][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.20-03.44.24:865][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.04.20-03.44.53:353][727]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.45.56:558][585]LogEditorTransaction: Undo Move Anchor
+[2022.04.20-03.45.56:853][590]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.20-03.45.57:250][601]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.20-03.45.57:686][624]LogEditorTransaction: Undo Changed Anchors
+[2022.04.20-03.46.35:676][985]LogEditorTransaction: Undo Move Anchor
+[2022.04.20-03.46.36:032][991]LogEditorTransaction: Undo Edit Top
+[2022.04.20-03.46.36:458][  6]LogEditorTransaction: Undo Edit Left
+[2022.04.20-03.46.36:811][ 24]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.20-03.46.37:270][ 45]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.04.20-03.46.38:433][115]LogEditorTransaction: Undo Changed Anchors
+[2022.04.20-03.46.39:075][151]LogEditorTransaction: Undo Resize Widget
+[2022.04.20-03.49.43:069][913]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-03.49.43:118][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.04.20-03.49.43:692][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.49.43:710][931]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget26FD5F784CC22927244DEFB817F466AF.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.49.43:738][931]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-03.49.43:738][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
+[2022.04.20-03.49.55:566][438]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-03.51.04:805][974]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-03.51.16:427][748]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-03.51.20:356][967]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-03.51.34:549][822]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-03.51.57:028][311]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.20-03.52.07:638][ 56]BlueprintLog: New page: Compile MainMenuWidget
+[2022.04.20-03.52.07:685][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.04.20-03.52.08:292][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/MainMenuWidget" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset" SILENT=true
+[2022.04.20-03.52.08:306][ 86]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/MainMenuWidget1699EF7142691323EE36B9851B86CE9E.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/MainMenu/MainMenuWidget.uasset'
+[2022.04.20-03.52.08:325][ 86]AssetCheck: New page: Asset Save: MainMenuWidget
+[2022.04.20-03.52.08:326][ 86]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu/MainMenuWidget.MainMenuWidget
