@@ -1141,3 +1141,519 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.20-17.12.36:785][184]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/FirstLevel33C37313493DCFD5E3B7D6BDE41960BC.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Maps/Levels/FirstLevel.umap'
 [2022.04.20-17.12.36:808][184]AssetCheck: New page: Asset Save: FirstLevel
 [2022.04.20-17.12.36:808][184]LogContentValidation: Display: Validating World /Game/Maps/Levels/FirstLevel.FirstLevel
+[2022.04.20-17.13.46:158][139]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.17.40:134][495]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.17.40:187][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.04.20-17.18.26:911][681]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.18.26:965][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.04.20-17.18.27:623][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.18.27:641][712]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint643E40B6421A0DE5FBFDA580855D961B.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.18.27:663][712]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.18.27:663][712]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.18.44:185][350]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.18.44:237][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.04.20-17.18.44:839][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.18.44:859][377]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint7E4FBBEA45D10CCC8A7C1390F999B093.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.18.44:879][377]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.18.44:880][377]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.20.40:944][552]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.20.40:996][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.04.20-17.20.42:132][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.20.42:151][607]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpointB9F1901D4DA1E07A6B9AF8870239CC36.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.20.42:169][607]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.20.42:169][607]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.21.21:715][113]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.21.21:769][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.04.20-17.21.22:597][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.21.22:618][152]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint841E3B35441D51848A4F2F9EB1D5825E.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.21.22:640][152]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.21.22:640][152]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.21.42:994][741]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.21.43:048][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.04.20-17.21.43:596][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.21.43:616][766]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpointC9E3515E42EFD3CBCDCD17957A740288.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.21.43:638][766]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.21.43:638][766]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.23.24:952][657]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.23.25:008][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.04.20-17.23.25:689][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.23.25:710][688]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint39A7A66E48C7D9F5B64350936C39FCE6.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.23.25:732][688]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.23.25:732][688]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.25.01:334][111]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.25.01:389][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.04.20-17.25.02:251][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.25.02:273][150]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint144A76244171DBF914F9B48423AE914D.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.25.02:294][150]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.25.02:294][150]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.25.34:697][364]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.25.34:752][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.04.20-17.25.35:465][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.25.35:486][399]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint9B18421640AC460D67755396B3B0BE73.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.25.35:506][399]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.25.35:506][399]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.26.00:301][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.04.20-17.26.00:345][521]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/FirstLevel_Auto2198CDB0341AE695D590779B587B46A8E.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/Autosaves/Game/Maps/Levels/FirstLevel_Auto2.umap'
+[2022.04.20-17.26.00:347][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Levels/FirstLevel' took 0.079
+[2022.04.20-17.26.00:347][521]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2022.04.20-17.30.00:116][737]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.30.00:168][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.04.20-17.30.00:582][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.30.00:605][755]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint5E6AFE2D40E047A299E45BB11F49DAA2.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.30.00:626][755]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.30.00:626][755]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.30.01:500][804]LogSlate: Window 'AdultAISpawnpoint' being destroyed
+[2022.04.20-17.30.01:520][804]LogSlate: Window 'AdultAISpawnpoint' being destroyed
+[2022.04.20-17.30.01:525][804]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.30.01:526][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.30.04:429][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.30.04:440][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-17.30.04:441][ 87]PIE: New page: PIE session: FirstLevel (Apr 20, 2022, 9:30:04 AM)
+[2022.04.20-17.30.04:472][ 87]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.30.04:488][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016667s)
+[2022.04.20-17.30.04:492][ 87]LogAIModule: Creating AISystem for world FirstLevel
+[2022.04.20-17.30.04:493][ 87]LogPlayLevel: PIE: World Init took: (0.003091s)
+[2022.04.20-17.30.04:493][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/FirstLevel.FirstLevel to /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.020359s)
+[2022.04.20-17.30.04:519][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.04.20-17.30.04:520][ 87]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.20-17.30.04:520][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.30.04:520][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.30.04:520][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.30.04:520][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.30.04:520][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.30.04:520][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.30.04:520][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.30.04:520][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.30.04:521][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-17.30.04:521][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-17.30.04:521][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-17.30.04:521][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.30.04:524][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.30.04:524][ 87]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.30.04:537][ 87]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-17.30.04:537][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.30.04:537][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.30.04:537][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.30.04:538][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.30.04:538][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-17.30.04:538][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-17.30.04:540][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-17.30.04:540][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-17.30.04:540][ 87]LogInit: FAudioDevice initialized.
+[2022.04.20-17.30.04:540][ 87]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstLevel'.
+[2022.04.20-17.30.04:551][ 87]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-17.30.04:553][ 87]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.04.20-13.30.04
+[2022.04.20-17.30.04:554][ 87]LogWorld: Bringing up level for play took: 0.003073
+[2022.04.20-17.30.04:554][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.04.20-17.30.04:564][ 87]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-147.330 Y=93.811 Z=120.278] for [ThirdPersonCharacter_C]
+[2022.04.20-17.30.04:565][ 87]PIE: Server logged in
+[2022.04.20-17.30.04:566][ 87]PIE: Play in editor total start time 0.13 seconds.
+[2022.04.20-17.30.16:237][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.30.16:237][406]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.30.16:237][406]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.30.16:238][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.30.16:252][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-17.30.16:257][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.30.16:278][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-17.30.16:278][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.30.16:280][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.30.16:281][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.30.16:285][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.04.20-17.30.16:308][407]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.20-17.30.18:061][537]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.30.18:071][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-17.30.18:071][537]PIE: New page: PIE session: FirstLevel (Apr 20, 2022, 9:30:18 AM)
+[2022.04.20-17.30.18:072][537]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.30.18:086][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015277s)
+[2022.04.20-17.30.18:089][537]LogAIModule: Creating AISystem for world FirstLevel
+[2022.04.20-17.30.18:090][537]LogPlayLevel: PIE: World Init took: (0.003195s)
+[2022.04.20-17.30.18:090][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/FirstLevel.FirstLevel to /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.018840s)
+[2022.04.20-17.30.18:111][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.04.20-17.30.18:112][537]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.20-17.30.18:112][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.30.18:112][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.30.18:112][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.30.18:112][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.30.18:112][537]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.30.18:112][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.30.18:112][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.30.18:112][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.30.18:113][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-17.30.18:113][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-17.30.18:113][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-17.30.18:113][537]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.30.18:115][537]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.30.18:115][537]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.30.18:128][537]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-17.30.18:128][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.30.18:128][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.30.18:128][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.30.18:129][537]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.30.18:129][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-17.30.18:129][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-17.30.18:131][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-17.30.18:131][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-17.30.18:131][537]LogInit: FAudioDevice initialized.
+[2022.04.20-17.30.18:131][537]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstLevel'.
+[2022.04.20-17.30.18:142][537]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-17.30.18:146][537]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.04.20-13.30.18
+[2022.04.20-17.30.18:147][537]LogWorld: Bringing up level for play took: 0.003845
+[2022.04.20-17.30.18:147][537]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.04.20-17.30.18:151][537]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=17.446 Y=50.576 Z=120.282] for [ThirdPersonCharacter_C]
+[2022.04.20-17.30.18:152][537]PIE: Server logged in
+[2022.04.20-17.30.18:153][537]PIE: Play in editor total start time 0.085 seconds.
+[2022.04.20-17.30.24:407][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.30.24:407][239]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.30.24:407][239]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.30.24:409][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.30.24:423][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-17.30.24:428][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.30.24:448][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.30.24:449][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.30.24:450][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.30.24:455][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.04.20-17.30.24:480][240]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.04.20-17.30.33:278][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.20-17.30.34:186][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.04.20-17.30.34:893][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2022.04.20-17.30.35:716][373]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.20-17.30.36:227][418]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.04.20-17.30.36:741][465]LogEditorViewport: Clicking on Actor (LMB): AdultAISpawnpoint_C (AdultAISpawnpoint)
+[2022.04.20-17.30.44:411][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.30.44:424][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-17.30.44:424][ 89]PIE: New page: PIE session: FirstLevel (Apr 20, 2022, 9:30:44 AM)
+[2022.04.20-17.30.44:424][ 89]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.30.44:439][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014384s)
+[2022.04.20-17.30.44:442][ 89]LogAIModule: Creating AISystem for world FirstLevel
+[2022.04.20-17.30.44:443][ 89]LogPlayLevel: PIE: World Init took: (0.003975s)
+[2022.04.20-17.30.44:443][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/FirstLevel.FirstLevel to /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.018693s)
+[2022.04.20-17.30.44:465][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.04.20-17.30.44:471][ 89]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.30.44:471][ 89]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.30.44:471][ 89]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-17.30.44:471][ 89]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-17.30.44:471][ 89]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-17.30.44:471][ 89]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.30.44:474][ 89]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.30.44:474][ 89]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.30.44:487][ 89]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-17.30.44:487][ 89]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.30.44:487][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.30.44:487][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.30.44:488][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.30.44:488][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-17.30.44:488][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-17.30.44:490][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-17.30.44:490][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-17.30.44:490][ 89]LogInit: FAudioDevice initialized.
+[2022.04.20-17.30.44:490][ 89]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstLevel'.
+[2022.04.20-17.30.44:502][ 89]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-17.30.44:506][ 89]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.04.20-13.30.44
+[2022.04.20-17.30.44:506][ 89]LogWorld: Bringing up level for play took: 0.003160
+[2022.04.20-17.30.44:506][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.20-17.30.44:510][ 89]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-200.945 Y=486.948 Z=120.276] for [ThirdPersonCharacter_C]
+[2022.04.20-17.30.44:514][ 89]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-221.942 Y=400.262 Z=120.276] for [ThirdPersonCharacter_C]
+[2022.04.20-17.30.44:517][ 89]PIE: Server logged in
+[2022.04.20-17.30.44:518][ 89]PIE: Play in editor total start time 0.1 seconds.
+[2022.04.20-17.30.57:017][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.30.57:017][449]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.30.57:017][449]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.30.57:018][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.30.57:031][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-17.30.57:042][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.30.57:064][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.30.57:064][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.30.57:065][449]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.30.57:070][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.04.20-17.30.57:108][450]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.20-17.33.37:402][471]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.34.09:437][ 65]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.34.09:501][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.04.20-17.34.10:518][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.34.10:540][110]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpointDE2EB38B4E4EB61DA8B7679E1789CF2A.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.34.10:562][110]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.34.10:562][110]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.34.11:845][171]LogSlate: Window 'AdultAISpawnpoint' being destroyed
+[2022.04.20-17.34.11:856][171]LogSlate: Window 'AdultAISpawnpoint' being destroyed
+[2022.04.20-17.34.11:861][171]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.34.11:861][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.34.12:830][233]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.34.12:842][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-17.34.12:842][233]PIE: New page: PIE session: FirstLevel (Apr 20, 2022, 9:34:12 AM)
+[2022.04.20-17.34.12:842][233]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.34.12:859][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015995s)
+[2022.04.20-17.34.12:861][233]LogAIModule: Creating AISystem for world FirstLevel
+[2022.04.20-17.34.12:862][233]LogPlayLevel: PIE: World Init took: (0.002897s)
+[2022.04.20-17.34.12:862][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/FirstLevel.FirstLevel to /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.019352s)
+[2022.04.20-17.34.12:888][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.04.20-17.34.12:889][233]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.20-17.34.12:889][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.34.12:889][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.34.12:889][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.34.12:889][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.34.12:889][233]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.34.12:889][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.34.12:889][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.34.12:889][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.34.12:890][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-17.34.12:890][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-17.34.12:890][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-17.34.12:890][233]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.34.12:894][233]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.34.12:894][233]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.34.12:910][233]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-17.34.12:910][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.34.12:910][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.34.12:910][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.34.12:911][233]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.34.12:912][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-17.34.12:912][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-17.34.12:914][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-17.34.12:914][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-17.34.12:914][233]LogInit: FAudioDevice initialized.
+[2022.04.20-17.34.12:914][233]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstLevel'.
+[2022.04.20-17.34.12:925][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-17.34.12:928][233]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.04.20-13.34.12
+[2022.04.20-17.34.12:929][233]LogWorld: Bringing up level for play took: 0.003427
+[2022.04.20-17.34.12:929][233]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.04.20-17.34.12:939][233]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-149.344 Y=170.993 Z=120.278] for [ThirdPersonCharacter_C]
+[2022.04.20-17.34.12:940][233]PIE: Server logged in
+[2022.04.20-17.34.12:941][233]PIE: Play in editor total start time 0.104 seconds.
+[2022.04.20-17.34.19:837][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.34.19:837][937]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.34.19:837][937]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.34.19:838][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.34.19:851][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-17.34.19:863][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.34.19:884][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-17.34.19:884][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.34.19:886][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.34.19:887][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.34.19:891][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.04.20-17.34.19:930][938]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.20-17.34.20:829][  4]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.34.20:839][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-17.34.20:839][  4]PIE: New page: PIE session: FirstLevel (Apr 20, 2022, 9:34:20 AM)
+[2022.04.20-17.34.20:839][  4]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.34.20:855][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015458s)
+[2022.04.20-17.34.20:859][  4]LogAIModule: Creating AISystem for world FirstLevel
+[2022.04.20-17.34.20:859][  4]LogPlayLevel: PIE: World Init took: (0.003778s)
+[2022.04.20-17.34.20:859][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/FirstLevel.FirstLevel to /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.019674s)
+[2022.04.20-17.34.20:883][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.20-17.34.20:884][  4]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.20-17.34.20:884][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.34.20:884][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.34.20:884][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.34.20:884][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.34.20:884][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.34.20:884][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.34.20:884][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.34.20:884][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.34.20:885][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-17.34.20:885][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-17.34.20:885][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-17.34.20:885][  4]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.34.20:888][  4]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.34.20:888][  4]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.34.20:901][  4]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-17.34.20:901][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.34.20:901][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.34.20:901][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.34.20:902][  4]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.34.20:902][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-17.34.20:902][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-17.34.20:903][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-17.34.20:903][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-17.34.20:903][  4]LogInit: FAudioDevice initialized.
+[2022.04.20-17.34.20:903][  4]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstLevel'.
+[2022.04.20-17.34.20:916][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-17.34.20:920][  4]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.04.20-13.34.20
+[2022.04.20-17.34.20:920][  4]LogWorld: Bringing up level for play took: 0.003349
+[2022.04.20-17.34.20:920][  4]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.04.20-17.34.20:933][  4]PIE: Server logged in
+[2022.04.20-17.34.20:934][  4]PIE: Play in editor total start time 0.099 seconds.
+[2022.04.20-17.34.28:078][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.34.28:078][729]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.34.28:078][729]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.34.28:079][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.34.28:090][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-17.34.28:101][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.34.28:122][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-17.34.28:123][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.34.28:124][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.34.28:126][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.34.28:130][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.20-17.34.28:170][730]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.04.20-17.34.39:556][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.04.20-17.34.39:592][644]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/FirstLevel9D85E07C433A72B8C338F9A96DE45392.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Maps/Levels/FirstLevel.umap'
+[2022.04.20-17.34.39:616][644]AssetCheck: New page: Asset Save: FirstLevel
+[2022.04.20-17.34.39:616][644]LogContentValidation: Display: Validating World /Game/Maps/Levels/FirstLevel.FirstLevel
+[2022.04.20-17.34.44:864][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.04.20-17.34.58:332][322]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.35.51:162][150]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.35.51:227][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.04.20-17.35.51:895][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.35.51:915][177]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpointC6C5648848C62307723755960EFEE112.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.35.51:940][177]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.35.51:940][177]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.36.00:403][548]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.36.00:468][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.04.20-17.36.02:126][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.36.02:146][629]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint9072C5EA4AADEF50F6675781AAC66C18.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.36.02:165][629]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.36.02:165][629]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.36.12:451][140]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.36.12:516][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.04.20-17.36.13:176][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.36.13:196][170]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint9A23798E4DF5341E6364FABA1F07E9B6.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.36.13:213][170]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.36.13:213][170]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.36.59:731][335]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.36.59:792][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.04.20-17.37.26:904][ 17]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.37.26:967][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.04.20-17.37.27:673][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.37.27:696][ 48]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint07D1F09E4BD123597A0C23BEC5966D78.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.37.27:718][ 48]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.37.27:718][ 48]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.37.38:847][382]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.37.38:918][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.04.20-17.37.39:489][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.37.39:510][406]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint185E1AED4A00472D43B84A802029EAA8.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.37.39:531][406]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.37.39:531][406]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.38.08:113][646]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.38.08:184][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.04.20-17.38.08:621][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.38.08:646][663]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpointEA35EBA647BCB65EAA502CA5E2F17EA4.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.38.08:670][663]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.38.08:670][663]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.39.38:310][634]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.39.38:378][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.04.20-17.39.38:998][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.39.39:023][661]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpointAA676B7D44B23B6DE92FAE924DCF4EE3.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.39.39:043][661]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.39.39:044][661]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.40.40:099][869]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.20-17.40.40:128][869]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.20-17.40.44:425][ 89]LogEditorTransaction: Undo Change Class Pin Value
+[2022.04.20-17.40.48:588][269]BlueprintLog: New page: Compile AdultAISpawnpoint
+[2022.04.20-17.40.48:658][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.04.20-17.40.49:193][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.40.49:215][292]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint799874FD436F02D3A88A79805C85C25B.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.40.49:237][292]AssetCheck: New page: Asset Save: AdultAISpawnpoint
+[2022.04.20-17.40.49:237][292]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.40.50:410][351]LogSlate: Window 'AdultAISpawnpoint' being destroyed
+[2022.04.20-17.40.50:431][351]LogSlate: Window 'AdultAISpawnpoint' being destroyed
+[2022.04.20-17.40.50:437][351]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.40.50:437][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.40.51:539][421]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.40.51:551][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-17.40.51:551][421]PIE: New page: PIE session: FirstLevel (Apr 20, 2022, 9:40:51 AM)
+[2022.04.20-17.40.51:551][421]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.40.51:567][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015409s)
+[2022.04.20-17.40.51:570][421]LogAIModule: Creating AISystem for world FirstLevel
+[2022.04.20-17.40.51:570][421]LogPlayLevel: PIE: World Init took: (0.002542s)
+[2022.04.20-17.40.51:570][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/FirstLevel.FirstLevel to /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.018522s)
+[2022.04.20-17.40.51:597][421]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.04.20-17.40.51:598][421]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.20-17.40.51:598][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.40.51:598][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.40.51:598][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.40.51:598][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.40.51:598][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.40.51:598][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.40.51:599][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.40.51:599][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.40.51:599][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.20-17.40.51:599][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.20-17.40.51:599][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.20-17.40.51:599][421]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.40.51:603][421]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.40.51:603][421]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.40.51:617][421]LogAudioMixer: Display: Using Audio Device Headphones (T19)
+[2022.04.20-17.40.51:617][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.40.51:617][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.40.51:617][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.40.51:619][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.40.51:619][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.20-17.40.51:619][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.20-17.40.51:620][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.20-17.40.51:620][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.20-17.40.51:620][421]LogInit: FAudioDevice initialized.
+[2022.04.20-17.40.51:620][421]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstLevel'.
+[2022.04.20-17.40.51:628][421]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.20-17.40.51:632][421]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2022.04.20-13.40.51
+[2022.04.20-17.40.51:632][421]LogWorld: Bringing up level for play took: 0.003254
+[2022.04.20-17.40.51:632][421]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.04.20-17.40.51:642][421]PIE: Server logged in
+[2022.04.20-17.40.51:643][421]PIE: Play in editor total start time 0.097 seconds.
+[2022.04.20-17.41.15:106][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.41.15:106][799]LogWorld: BeginTearingDown for /Game/Maps/Levels/UEDPIE_0_FirstLevel
+[2022.04.20-17.41.15:107][799]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.41.15:108][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.41.15:120][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-17.41.15:130][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.41.15:153][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.20-17.41.15:153][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.41.15:155][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.20-17.41.15:157][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.41.15:160][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.20-17.41.15:202][800]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.04.20-17.41.31:572][830]LogContentBrowser: Attempting asset rename: AdultAIBlueprint -> AdultAIBlueprintLater
+[2022.04.20-17.41.31:606][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.AdultAIBlueprintLater_C' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:606][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:606][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:606][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:ReceiveTick' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.SKEL_AdultAIBlueprintLater_C' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.AdultAIBlueprintLater_C:ReceiveTick' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.AdultAIBlueprintLater_C:OnSuccess_EB78E5F24307C8E8E62E66B334171F95' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:607][830]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprintLater.AdultAIBlueprintLater_C:OnFail_EB78E5F24307C8E8E62E66B334171F95' ref from Metadata '/Game/Blueprints/AdultAIBlueprint.PackageMetaData'
+[2022.04.20-17.41.31:739][830]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAIBlueprintLater2E70DB344B78586E6D57AB9D1728DD94.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprintLater.uasset'
+[2022.04.20-17.41.31:743][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset" SILENT=true
+[2022.04.20-17.41.31:744][830]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAIBlueprintAEB0247647373760F3BEAABEE410A6FA.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprint.uasset'
+[2022.04.20-17.41.31:842][830]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.20-17.41.31:842][830]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprintLater.AdultAIBlueprintLater
+[2022.04.20-17.41.31:842][830]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint
+[2022.04.20-17.41.31:842][830]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/AdultAIBlueprint.Default__AdultAIBlueprint_C
+[2022.04.20-17.41.31:842][830]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/AdultAIBlueprint.AdultAIBlueprint_C
+[2022.04.20-17.41.45:211][717]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.04.20-17.42.07:623][435]LogContentBrowser: Attempting asset rename: ThirdPersonCharacter -> AdultAIBlueprin
+[2022.04.20-17.42.07:653][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.AdultAIBlueprin_C' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:654][435]LogMetaData: Removing '/Game/Blueprints/AdultAIBlueprin.SKEL_AdultAIBlueprin_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.20-17.42.07:739][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAIBlueprin" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprin.uasset" SILENT=true
+[2022.04.20-17.42.07:783][435]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAIBlueprin819700A047842B6522CE7BAD5941F068.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAIBlueprin.uasset'
+[2022.04.20-17.42.07:896][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.04.20-17.42.07:937][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.04.20-17.42.07:960][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.20-17.42.08:007][435]AssetCheck: New page: Asset Save: AdultAIBlueprin
+[2022.04.20-17.42.08:007][435]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAIBlueprin.AdultAIBlueprin
+[2022.04.20-17.42.10:889][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.04.20-17.42.12:376][587]LogSlate: Window 'Save Content' being destroyed
+[2022.04.20-17.42.12:411][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AdultAISpawnpoint" FILE="../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset" SILENT=true
+[2022.04.20-17.42.12:435][587]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/AdultAISpawnpoint6B50D16C48C2AECD67A703859FD47FF9.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Blueprints/AdultAISpawnpoint.uasset'
+[2022.04.20-17.42.12:464][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.20-17.42.12:499][587]LogSavePackage: Moving '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Saved/FirstLevel582B99714F24771D2B99DCBD43EED2A9.tmp' to '../../../../../../Users/Jalis/Desktop/SneezeGame_Unreal/SneezeGameThird/Content/Maps/Levels/FirstLevel.umap'
+[2022.04.20-17.42.12:511][587]LogFileHelpers: Saving map 'FirstLevel' took 0.072
+[2022.04.20-17.42.12:531][587]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.20-17.42.12:531][587]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/AdultAISpawnpoint.AdultAISpawnpoint
+[2022.04.20-17.42.12:532][587]LogContentValidation: Display: Validating World /Game/Maps/Levels/FirstLevel.FirstLevel
